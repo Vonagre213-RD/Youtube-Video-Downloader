@@ -22,7 +22,7 @@ Hello! This is a project I made with TypeScript to quickly download YouTube vide
 pnpm install
 ```
 
-![Installation Info](./gitImages/Pasted%20image%2020260221194424.png)
+![Installation Info](./gitImages/instalationImage.png)
 
 3- That's it! You have installed the downloader! Now proceed to the usage guide!
 
